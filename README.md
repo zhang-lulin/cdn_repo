@@ -1,2 +1,2 @@
-# cnd_repo
-CND加速使用
+# cdn_repo
+CDN加速使用
